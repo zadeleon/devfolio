@@ -1,28 +1,28 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://aleodeleon.netlify.app/`,
     // Your Name
-    name: 'Aleo Ralph C. De Leon',
+    name: 'Aleo De Leon',
     // Main Site Title
     title: `Aleo De Leon | Software Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Software Engineer`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: ``,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: ``,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/aleodeleon5/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am an experienced RPA developer focusing on UiPath and .Net for building solutions. My skills include identifying automation opportunities, designing and implementing RPA workflows, and delivering high-quality automation solutions that meet business needs. `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Accrivot',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Developed a .Net solution using Winforms and C# to extract customer information from IBM 3270 screens.',
+        link: '',
       },
       {
         name: 'ChromeExtensionKit',
@@ -40,36 +40,41 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'SLI Consulting Inc - Metrobank',
+        description: 'RPA Developer, Aug 2022 - Present',
+        link: '',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Ingram Micro',
+        description: 'Engineer, Software Development - RPA, May 2021 - Aug 2022',
+        link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Asticom Technology Inc',
+        description: 'Web Developer - RPA, Apr 2020 - Apr 2021',
+        link: '',
+      },
+      {
+        name: 'Genie Technologies Inc.',
+        description: 'Software Quality Assurance, Oct 2019 - Apr 2020',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'RPA Tools',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'C#, VB, VBA, .Net, SQL, UiPath',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Source Control with Git, Agile / Scrum, Technical Documentations, MS Office, SAP',
       },
     ],
   },
