@@ -25,16 +25,28 @@ module.exports = {
         link: '',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Deal Date Recon',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Reconciled two Excel files from different source for deal date comparison.',
+        link: '',
       },
       {
-        name: 'Another Cool Project',
+        name: 'SAP Processing',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Developed a Credit & Debit bot for the finance department to automate SAP processing.',
+        link: '',
+      },
+      {
+        name: 'Report Extraction',
+        description:
+          'Extracted data from vendor websites and performed lookups in Excel for report generation.',
+        link: '',
+      },
+      {
+        name: 'Web Extraction',
+        description:
+          'Automated file donwloading and transferring to another server using UiPath.',
+        link: '',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -65,7 +77,7 @@ module.exports = {
       {
         name: 'RPA Tools',
         description:
-          'C#, VB, VBA, .Net, SQL, UiPath',
+          'C#, VB, VBA, .Net, SQL, UiPath, Orchestrator',
       },
       {
         name: 'Databases',
